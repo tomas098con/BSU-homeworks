@@ -1,0 +1,21 @@
+Аминокислота	3-буквы	1-буква	Кодоны	Мнемоника	Масса (моно)	Масса (сред.)
+Аланин	Ala	A	GCU, GCC, GCA, GCG	Alanine	89.048	89.094
+Цистеин	Cys	C	UGU, UGC	Cysteine	121.020	121.154
+Аспарагиновая к-та	Asp	D	GAU, GAC	asparDic acid	133.038	133.104
+Глутаминовая к-та	Glu	E	GAA, GAG	gluEtamic acid	147.053	147.131
+Фенилаланин	Phe	F	UUU, UUC	Fenylalanine	165.079	165.192
+Глицин	Gly	G	GGU, GGC, GGA, GGG	Glycine	75.032	75.067
+Гистидин	His	H	CAU, CAC	Histidine	155.069	155.156
+Изолейцин	Ile	I	AUU, AUC, AUA	Isoleucine	131.095	131.175
+Лизин	Lys	K	AAA, AAG	before L	146.106	146.189
+Лейцин	Leu	L	UUA, UUG, CUU, CUC, CUA, CUG	Leucine	131.095	131.175
+Метионин	Met	M	AUG	Methionine	149.051	149.214
+Аспарагин	Asn	N	AAU, AAC	asparagiNe	132.053	132.119
+Пролин	Pro	P	CCU, CCC, CCA, CCG	Proline	115.063	115.132
+Глутамин	Gln	Q	CAA, CAG	Q-tamine	146.069	146.146
+Аргинин	Arg	R	CGU, CGC, CGA, CGG, AGA, AGG	aRginine	174.112	174.203
+Серин	Ser	S	UCU, UCC, UCA, UCG, AGU, AGC	Serine	105.043	105.093
+Треонин	Thr	T	ACU, ACC, ACA, ACG	Threonine	119.058	119.120
+Валин	Val	V	GUU, GUC, GUA, GUG	Valine	117.079	117.148
+Триптофан	Trp	W	UGG	tWo rings	204.090	204.228
+Тирозин	Tyr	Y	UAU, UAC	tYrosine	181.074	181.191
