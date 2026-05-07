@@ -1,0 +1,28 @@
+     KM876019.1: Falco peregrinus voucher Band R0002515 tRNA-Leu
+gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene,
+complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete
+cds; mitochondrial, GC= 0.4420289855072464
+     KM876020.1: Falco peregrinus voucher Falco43 tRNA-Leu gene,
+complete sequence; NADH dehydrogenase subunit 1 (ND1) gene,
+complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete
+cds; mitochondrial, GC= 0.4420289855072464
+     KM876028.1: Falco peregrinus voucher CAS HUA17 tRNA-Leu
+gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene,
+complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete
+cds; mitochondrial, GC= 0.44288150042625746
+     KM876092.1: Falco peregrinus voucher ZMUC 115766 tRNA-Leu
+gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene,
+complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete
+cds; mitochondrial, GC= 0.4437340153452685
+     KM876059.1: Falco peregrinus voucher CAS TPF176 tRNA-Leu
+gene, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene,
+complete cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+sequence; and NADH dehydrogenase subunit 2 (ND2) gene, complete
+cds; mitochondrial, GC= 0.44458653026427963
+     QOSP01000416.1: Pseudomonas syringae strain IBSBF 3261
+IonXpress_011_rawlib.basecaller_c416, whole genome shotgun
+sequence, GC= 0.6243299220272904

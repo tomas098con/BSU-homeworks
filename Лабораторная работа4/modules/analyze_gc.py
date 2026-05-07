@@ -19,9 +19,14 @@ def run_task_2(data):
 
     result_list.sort(key= lambda x: x[2])
 
-    for id, dec, per in result_list:
-        text = f'{id}: {dec}, GC= {per}'
-        wrapped_text = textwrap.fill(text, width=65,
-                                    initial_indent='     ')
-        print(wrapped_text)
+    
+    with open('output/gc_analysis.txt', 'w', encoding='utf-8') as f:
+    
+        for id, dec, per in result_list:
+            text = f'{id}: {dec}, GC= {per}'
+            wrapped_text = textwrap.fill(text, width=65,
+                                        initial_indent='     ')
+            
+            print(wrapped_text)
+            f.write(wrapped_text + '\n')
         
